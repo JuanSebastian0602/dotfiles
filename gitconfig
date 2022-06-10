@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juansebastianquintero01@gmail.com
+	name = juan sebastian quintero ramirez
